@@ -6,6 +6,7 @@ let arr=[10,20,30,"Aman",null]
 console.log(typeof arr,arr);
 
 // Object
+// Key value-pair
 
 let obj={
     name:"Aman",
@@ -33,3 +34,22 @@ console.log(typeof num,num);
 
 let x=true;
 console.log(Number(x));
+
+let account="100xs"
+console.log(Number(account));
+
+// null
+let x1 = null;
+console.log(Number(x1));
+
+// undefined
+let x2 = undefined
+console.log(Number(x2));
+
+// convert into string
+
+let ab=20;
+console.log(typeof String(ab));
+
+let ax=true;
+console.log(typeof String(ax));
