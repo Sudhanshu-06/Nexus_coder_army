@@ -1,0 +1,15 @@
+.circle{
+    width:50vw;
+    height: 50vw;
+    border-radius: 50%;
+    border: 5px solid yellow;
+    background-color: red;
+    margin: auto;
+    margin-top: 12vw;
+    
+}
+.circle:hover{
+    border-color: blue;
+    background-color: green;
+    cursor: pointer;
+}

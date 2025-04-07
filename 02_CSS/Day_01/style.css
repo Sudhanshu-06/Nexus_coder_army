@@ -28,3 +28,9 @@ section p{
 section > p{
     background-color: pink;
 }
+/* Id Selector with class selector */
+#banner.highlight {
+    background-color: yellow;
+    font-weight: bold;
+  }
+  
